@@ -2,7 +2,7 @@ Trac address - trac10x4cy6rc32dswyc42ajegpfxqqqdu2epvtarztrvxckxm9wxhdjqsv656e
 
 # TRAC Nexus — Web3 Communication Protocol
 
-**Demo:** [Live Link Here]
+**Demo:** https://trac-nexus.vercel.app/
 
 ## Overview
 TRAC Nexus is a Web3-native communication protocol designed for decentralized customer engagement. It supports token incentives, DAO governance, and on-chain messaging.
